@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/jakubjirous/interactive-rating-component)
-- Live Site URL: [Vercel](https://frontend-mentor-interactive-rating-component-flax.vercel.app/)
+- Live Site URL: [Vercel](https://interactive-rating-component-jakubjirous.vercel.app/)
 
 ---
 
