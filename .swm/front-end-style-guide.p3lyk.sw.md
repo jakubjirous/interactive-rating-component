@@ -38,23 +38,24 @@ Custom colours available as a part of Chakra UI custom theme.
 4      const colors = {
 5        transparent: "transparent",
 6        white: "hsl(0, 0%, 100%)",
-7        orange: {
-8          100: "hsl(25, 97%, 53%)",
-9        },
-10       grey: {
-11         100: "hsl(217, 12%, 63%)",
-12         300: "hsl(219, 11%, 55%)",
-13         500: "hsl(215, 18%, 19%)",
-14       },
-15       blue: {
-16         500: "hsl(210, 19%, 18%)",
-17         700: "hsl(215, 20%, 17%)",
-18         900: "hsl(215, 27%, 12%)",
-19       },
-20       woodsmoke: {
-21         900: "hsl(228, 11%, 9%)",
-22       },
-23     };
+7        black: "#000000",
+8        orange: {
+9          100: "hsl(25, 97%, 53%)",
+10       },
+11       grey: {
+12         100: "hsl(217, 12%, 63%)",
+13         300: "hsl(219, 11%, 55%)",
+14         500: "hsl(215, 18%, 19%)",
+15       },
+16       blue: {
+17         500: "hsl(210, 19%, 18%)",
+18         700: "hsl(215, 20%, 17%)",
+19         900: "hsl(215, 27%, 12%)",
+20       },
+21       woodsmoke: {
+22         900: "hsl(228, 11%, 9%)",
+23       },
+24     };
 ```
 
 <br/>
@@ -104,8 +105,6 @@ Using Next.js' internal tooling for loading external font `Overpass` from `Googl
 5        fallback: ["sans-serif"],
 6      });
 ```
-
-<br/>
 
 <br/>
 
