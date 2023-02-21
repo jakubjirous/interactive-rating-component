@@ -4,6 +4,7 @@
 const colors = {
   transparent: "transparent",
   white: "hsl(0, 0%, 100%)",
+  black: "#000000",
   orange: {
     100: "hsl(25, 97%, 53%)",
   },
