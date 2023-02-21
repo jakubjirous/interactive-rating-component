@@ -1,11 +1,9 @@
 ---
 id: xa0zy
-title: Frontend Mentor
+title: A complete guide to submitting solutions on Frontend Mentor
 file_version: 1.1.2
 app_version: 1.2.4
 ---
-
-# A complete guide to submitting solutions on Frontend Mentor
 
 So, you’ve put in the time to build out your solution. You’re happy with how it looks and have tried matching it up to the design. Now it’s time to submit it to the platform!
 
@@ -34,14 +32,14 @@ There are a number of ways to create a live version of your project using the co
     
 *   They make it easy to connect your repo (GitHub, GitLab, BitBucket) and publish to a live URL.
     
-*   For more information on getting set up, head over to the Vercel documentation – [https://vercel.com/docs](https://vercel.com/docs?redirected=1).
+*   For more information on getting set up, head over to the [Vercel documentation](https://vercel.com/docs).
     
 
 ### Netlify
 
 *   Netlify is another incredible tool that is worth getting to know as a front-end developer. It’s effortless to connect your repo and publish it to a live URL which will track any changes you make to your code.
     
-*   To get set up with Netlify, check out the Netlify docs – [https://docs.netlify.com/](https://docs.netlify.com/)
+*   To get set up with Netlify, check out the [Netlify docs](https://docs.netlify.com/).
     
 
 ### GitHub Pages
@@ -70,14 +68,6 @@ Now it’s time to submit your solution! Once you’ve submitted your solution, 
 Don’t forget to share your solution around. The more people who see your solution, the more likely you are to get feedback from a number of people.
 
 Also, be sure to check out other people’s solutions to see how others have approached the same challenge. There’s a lot to be learned by reading other people’s code. If you have a question about someone’s approach or have some feedback leave a comment on their solution. Frontend Mentor is all about the community helping each other improve, so don’t be afraid to ask questions and help each other out 🙂
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
 
 <br/>
 
