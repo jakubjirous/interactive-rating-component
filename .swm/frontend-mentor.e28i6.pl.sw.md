@@ -42,14 +42,9 @@ Join 559,857 developers building projects, reviewing code, and helping each othe
 
 <br/>
 
-<br/>
-
-<br/>
-
-<br/>
-
 <!-- Steps - Do not remove this comment -->
-1. [Interactive Rating Component](interactive-rating-component.0bvys.sw.md)
+1. [A complete guide to submitting solutions on Frontend Mentor](a-complete-guide-to-submitting-solutions-on-frontend-mentor.xa0zy.sw.md)
+2. [Interactive Rating Component](interactive-rating-component.0bvys.sw.md)
 
 
 <br/>
